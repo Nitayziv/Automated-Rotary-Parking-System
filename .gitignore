@@ -1,0 +1,10 @@
+# Keil uVision build folders
+obj/
+lst/
+
+# Keil user-specific and backup files
+*.bak
+*.dep
+*.uvopt
+*.uvgui.*
+*.uvguix.*
