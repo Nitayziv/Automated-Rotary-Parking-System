@@ -36,6 +36,8 @@ An embedded control system for an automated rotary parking model, developed in C
 <img width="412" height="545" alt="image" src="https://github.com/user-attachments/assets/54f00bf3-ea88-445e-890d-5221a4ce00a1" />
 <img width="402" height="533" alt="image" src="https://github.com/user-attachments/assets/7bbd0386-9dd5-473b-b5a4-a05265f58243" />
 
+https://youtu.be/P687uW1HrHI
+
 <img width="1195" height="1113" alt="finalproject drawio (1)" src="https://github.com/user-attachments/assets/d1c99e1b-6d20-48bd-a6ea-55bfe0725518" />
 <img width="289" height="920" alt="flowchart drawio (1)" src="https://github.com/user-attachments/assets/15ee2999-06eb-4a3d-afe1-6f8d23e205fe" />
 
